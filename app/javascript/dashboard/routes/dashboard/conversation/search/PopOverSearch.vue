@@ -77,7 +77,7 @@ export default {
   &:hover {
     .search--icon,
     .search--label {
-      color: var(--w-500);
+      color: var(--w-25);
     }
   }
 }
@@ -86,7 +86,7 @@ export default {
   display: inline-flex;
   align-items: center;
   flex: 1;
-  background: var(--s-25);
+  background: '#FFF';
   padding: var(--space-smaller);
   height: var(--space-medium);
   border-radius: var(--border-radius-normal);

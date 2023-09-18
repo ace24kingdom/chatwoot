@@ -30,8 +30,12 @@
       border-top-color: transparent;
     }
 
-    + .conversation .conversation--details {
+    +.conversation .conversation--details {
       border-top-color: transparent;
+    }
+
+    .conversation--user {
+      color: var(--black-transparent) !important;
     }
   }
 

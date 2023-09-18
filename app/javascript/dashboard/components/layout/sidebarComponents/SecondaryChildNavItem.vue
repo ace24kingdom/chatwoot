@@ -115,22 +115,37 @@ $label-badge-size: var(--space-slab);
   line-height: 1.2;
 
   &:hover {
-    background: var(--s-25);
-    color: var(--s-600);
+    background: var(--w-25);
+    color: var(--w-500);
+    .badge--icon {
+      background: var(--w-25) !important;
+      color: var(--w-500) !important;
+    }
   }
 
   &:focus {
-    border-color: var(--w-300);
+    border-color: var(--w-500);
   }
 
   &.is-active {
     background: var(--w-25);
     color: var(--w-500);
     border-color: var(--w-25);
+    .badge--icon {
+      background: var(--w-25) !important;
+      color: var(--w-500) !important;
+    }
+    .conversation--user {
+      color: var(--black-transparent) !important;
+    }
   }
   &.is-active .count-view {
     background: var(--w-75);
     color: var(--w-500);
+    .badge--icon {
+      background: var(--w-25) !important;
+      color: var(--w-500) !important;
+    }
   }
 }
 
@@ -148,6 +163,10 @@ $label-badge-size: var(--space-slab);
   border-radius: var(--border-radius-small);
   margin-right: var(--space-smaller);
   background: var(--s-100);
+  &:hover {
+    background: var(--w-25);
+    color: var(--w-500);
+  }
 }
 
 .badge--icon {

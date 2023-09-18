@@ -89,11 +89,11 @@
   &.is-active {
     a {
       border-bottom-color: var(--color-woot);
-      color: var(--color-woot);
+      color: var(--w-25);
     }
 
     .badge {
-      background: $color-extra-light-blue;
+      background: var(--w-25);
       color: var(--color-woot);
     }
   }

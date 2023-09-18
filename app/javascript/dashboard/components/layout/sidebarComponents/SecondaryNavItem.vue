@@ -271,12 +271,12 @@ export default {
   color: var(--s-700);
 
   &:hover {
-    background: var(--s-25);
-    color: var(--s-600);
+    background: var(--w-25);
+    color: var(--w-500);
   }
 
   &:focus {
-    border-color: var(--w-300);
+    border-color: var(--w-500);
   }
 
   &.router-link-exact-active,
@@ -287,8 +287,8 @@ export default {
   }
 
   &.is-active .count-view {
-    background: var(--w-75);
-    color: var(--w-600);
+    background: var(--w-25);
+    color: var(--w-500);
   }
 }
 

@@ -160,7 +160,7 @@ export default {
 
 .messages-and-sidebar {
   display: flex;
-  background: var(--color-background-light);
+  background: var(--white);
   margin: 0;
   height: 100%;
   min-height: 0;

@@ -69,8 +69,8 @@ $default-button-height: 4.0rem;
     }
 
     &:hover {
-      background: var(--s-75);
-      border-color: var(--s-100);
+      background: var(--s-25);
+      border-color: var(--s-500);
 
       &.secondary {
         border-color: var(--s-100);
@@ -113,7 +113,7 @@ $default-button-height: 4.0rem;
   }
 
   &.clear {
-    color: var(--w-700);
+    color: var(--w-25);
 
     &.secondary {
       color: var(--s-700);

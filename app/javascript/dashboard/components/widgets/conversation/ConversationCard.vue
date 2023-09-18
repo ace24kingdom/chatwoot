@@ -402,6 +402,10 @@ export default {
 
   &:hover {
     background: var(--color-background-light);
+    color: var(--black-transparent);
+    .conversation--user {
+      color: var(--white-transparent);
+    }
   }
 
   &::v-deep .user-thumbnail-box {
@@ -480,7 +484,7 @@ export default {
   cursor: pointer;
 
   &:hover {
-    background-color: var(--w-100);
+    background-color: var(--w-25);
   }
 
   input[type='checkbox'] {

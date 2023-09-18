@@ -46,8 +46,8 @@ export default {
   align-items: center;
   justify-content: center;
   text-align: center;
-  background-image: linear-gradient(to top, var(--w-100) 0%, var(--w-75) 100%);
-  color: var(--w-600);
+  background-image: linear-gradient(to top, var(--w-25) 0%, var(--s-700) 100%);
+  color: var(--w-500);
   cursor: default;
 }
 </style>

@@ -59,7 +59,7 @@ export default {
 
   &:hover {
     background: var(--w-25);
-    color: var(--s-600);
+    color: var(--s-500);
   }
 
   &:focus {
@@ -67,8 +67,8 @@ export default {
   }
 
   &.is-active {
-    background: var(--w-50);
-    color: var(--w-500);
+    background: var(--w-25);
+    color: var(--s-500);
   }
 }
 

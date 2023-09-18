@@ -67,10 +67,14 @@ $spinner-before-border-color: rgba(255, 255, 255, 0.7);
 }
 
 @mixin background-light() {
-  background: $color-background-light;
+  background: $color-white;
 }
 
 @mixin background-white() {
+  background: $color-white;
+}
+
+@mixin background-black() {
   background: $color-white;
 }
 

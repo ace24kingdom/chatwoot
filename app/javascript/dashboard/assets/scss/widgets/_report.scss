@@ -7,7 +7,9 @@
 
   &.active {
     @include custom-border-top(3px, var(--color-woot));
-    @include background-white;
+
+    background: var(--w-25);
+
     .heading,
     .metric {
       color: var(--color-woot);

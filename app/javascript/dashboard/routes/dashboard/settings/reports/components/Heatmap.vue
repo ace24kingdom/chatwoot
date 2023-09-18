@@ -143,7 +143,7 @@ export default {
 
 <style scoped lang="scss">
 $heatmap-colors: (
-  level-1: var(--w-50),
+  level-1: '#F5FAFF',
   level-2: var(--w-100),
   level-3: var(--w-300),
   level-4: var(--w-500),
@@ -153,7 +153,7 @@ $heatmap-colors: (
 
 $heatmap-hover-border-color: (
   level-1: var(--w-25),
-  level-2: var(--w-50),
+  level-2: '#F5FAFF',
   level-3: var(--w-100),
   level-4: var(--w-300),
   level-5: var(--w-500),
@@ -257,7 +257,7 @@ $marker-height: var(--space-two);
     }
 
     &:not(.l1):not(.l2):not(.l3):not(.l4):not(.l5):not(.l6) {
-      background-color: var(--color-background-light);
+      background-color: '#F5FAFF';
       border: 1px solid var(--color-border-light);
 
       &:hover {
