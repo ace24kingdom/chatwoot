@@ -48,7 +48,7 @@ Chatwoot supports the following conversation channels:
  - **Line**: Connect your Line account and manage the conversations in Chatwoot.
  - **SMS**: Connect your Twilio SMS account and reply to the SMS queries in Chatwoot.
  - **API Channel**: Build custom communication channels using our API channel.
- - **Email**: Forward all your email queries to Chatwoot and view it in our integrated dashboard.
+ - **Email**: Forward all your email queries to Ace24 and view it in our integrated dashboard.
 
 And more.
 
@@ -72,7 +72,7 @@ Detailed documentation is available at [chatwoot.com/help-center](https://www.ch
 
 ## Translation process
 
-The translation process for Chatwoot web and mobile app is managed at [https://translate.chatwoot.com](https://translate.chatwoot.com) using Crowdin. Please read the [translation guide](https://www.chatwoot.com/docs/contributing/translating-chatwoot-to-your-language) for contributing to Chatwoot.
+The translation process for Chatwoot web and mobile app is managed at [https://translate.chatwoot.com](https://translate.chatwoot.com) using Crowdin. Please read the [translation guide](https://www.chatwoot.com/docs/contributing/translating-chatwoot-to-your-language) for contributing to Ace24.
 
 ## Branching model
 
@@ -100,7 +100,7 @@ Chatwoot now supports 1-Click deployment to DigitalOcean as a kubernetes app.
 
 ### Other deployment options
 
-For other supported options, checkout our [deployment page](https://chatwoot.com/deploy). 
+For other supported options, checkout our [deployment page](https://chatwoot.com/deploy).
 
 ## Security
 

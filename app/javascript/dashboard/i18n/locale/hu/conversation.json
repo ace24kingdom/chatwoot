@@ -213,8 +213,8 @@
     }
   },
   "ONBOARDING": {
-    "TITLE": "Hello 👋, köszöntünk a %{installationName}!",
-    "DESCRIPTION": "Köszönjük, hogy feliratkoztál. Segíteni akarunk, hogy a legtöbbet hozd ki a %{installationName}. Itt találsz egy pár dolgot, amit a %{installationName} lehetővé tesz.",
+    "TITLE": "Hello 👋, köszöntünk a Ace24!",
+    "DESCRIPTION": "Köszönjük, hogy feliratkoztál. Segíteni akarunk, hogy a legtöbbet hozd ki a Ace24. Itt találsz egy pár dolgot, amit a Ace24 lehetővé tesz.",
     "READ_LATEST_UPDATES": "Olvasd el legfrissebbeket",
     "ALL_CONVERSATION": {
       "TITLE": "Minden beszélgetésed egy helyen",

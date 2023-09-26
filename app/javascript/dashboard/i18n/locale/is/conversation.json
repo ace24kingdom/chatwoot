@@ -213,8 +213,8 @@
     }
   },
   "ONBOARDING": {
-    "TITLE": "Velkomin/n á %{installationName}!",
-    "DESCRIPTION": "Takk fyrir að skrá þig. Við viljum að þú fáir sem mest út úr %{installationName}. Hér eru nokkur atriði sem þú getur gert í %{installationName} til að gera upplifunina ánægjulega.",
+    "TITLE": "Velkomin/n á Ace24!",
+    "DESCRIPTION": "Takk fyrir að skrá þig. Við viljum að þú fáir sem mest út úr Ace24. Hér eru nokkur atriði sem þú getur gert í Ace24 til að gera upplifunina ánægjulega.",
     "READ_LATEST_UPDATES": "Sjáðu nýjustu uppfærslurnar okkar",
     "ALL_CONVERSATION": {
       "TITLE": "Öll samtölin þin á einum stað",

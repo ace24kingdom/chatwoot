@@ -406,6 +406,13 @@ export default {
     .conversation--user {
       color: var(--white-transparent);
     }
+    .conversation--message {
+      color: var(--white-transparent);
+    }
+
+    .time-ago {
+      color: var(--b-300);
+    }
   }
 
   &::v-deep .user-thumbnail-box {
@@ -413,8 +420,45 @@ export default {
   }
 }
 
+.active {
+  background: var(--color-background-light);
+  color: var(--black-transparent);
+
+  .conversation--user {
+    color: var(--black-transparent);
+  }
+  .conversation--message {
+    color: var(--black-transparent);
+  }
+
+  .time-ago {
+    color: var(--b-300);
+  }
+
+  &:hover {
+    .conversation--user {
+      color: var(--black-transparent);
+    }
+    .conversation--message {
+      color: var(--black-transparent);
+    }
+  }
+}
+
 .conversation-selected {
   background: var(--color-background-light);
+  color: var(--black-transparent);
+
+  .conversation--user {
+    color: var(--black-transparent);
+  }
+  .conversation--message {
+    color: var(--black-transparent);
+  }
+
+  .time-ago {
+    color: var(--b-300);
+  }
 }
 
 .has-inbox-name {

@@ -213,8 +213,8 @@
     }
   },
   "ONBOARDING": {
-    "TITLE": "Hey 👋， 歡迎來到 %{installationName}！",
-    "DESCRIPTION": "Thanks for signing up. We want you to get the most out of %{installationName}. Here are a few things you can do in %{installationName} to make the experience delightful.",
+    "TITLE": "Hey 👋， 歡迎來到 Ace24！",
+    "DESCRIPTION": "Thanks for signing up. We want you to get the most out of Ace24. Here are a few things you can do in Ace24 to make the experience delightful.",
     "READ_LATEST_UPDATES": "查看我們最後的更新",
     "ALL_CONVERSATION": {
       "TITLE": "All your conversations in one place",

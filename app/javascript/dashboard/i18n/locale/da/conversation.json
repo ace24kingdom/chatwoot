@@ -213,8 +213,8 @@
     }
   },
   "ONBOARDING": {
-    "TITLE": "Hej 👋, Velkommen til %{installationName}!",
-    "DESCRIPTION": "Tak for din tilmelding. Vi vil have dig til at få mest muligt ud af %{installationName}. Her er et par ting, du kan gøre i %{installationName} for at gøre oplevelsen dejlig.",
+    "TITLE": "Hej 👋, Velkommen til Ace24!",
+    "DESCRIPTION": "Tak for din tilmelding. Vi vil have dig til at få mest muligt ud af Ace24. Her er et par ting, du kan gøre i Ace24 for at gøre oplevelsen dejlig.",
     "READ_LATEST_UPDATES": "Læs vores seneste opdateringer",
     "ALL_CONVERSATION": {
       "TITLE": "Alle dine samtaler på ét sted",

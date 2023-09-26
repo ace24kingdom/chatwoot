@@ -11,7 +11,6 @@
 #
 # Indexes
 #
-#  index_installation_configs_on_name                 (name) UNIQUE
 #  index_installation_configs_on_name_and_created_at  (name,created_at) UNIQUE
 #
 class InstallationConfig < ApplicationRecord

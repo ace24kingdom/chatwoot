@@ -213,8 +213,8 @@
     }
   },
   "ONBOARDING": {
-    "TITLE": "Sveicināti 👋, Laipni lūdzam %{installationName}!",
-    "DESCRIPTION": "Paldies, ka reģistrējāties. Mēs vēlamies, lai Jūs gūtu maksimālu labumu no %{installationName}. Šeit ir dažas lietas, ko varat darīt %{installationName} lai Jūsu pieredze būtu patīkamāka.",
+    "TITLE": "Sveicināti 👋, Laipni lūdzam Ace24!",
+    "DESCRIPTION": "Paldies, ka reģistrējāties. Mēs vēlamies, lai Jūs gūtu maksimālu labumu no Ace24. Šeit ir dažas lietas, ko varat darīt Ace24 lai Jūsu pieredze būtu patīkamāka.",
     "READ_LATEST_UPDATES": "Izlasīt mūsu aktuālākos jaunumus",
     "ALL_CONVERSATION": {
       "TITLE": "Visas Jūsu sarunas vienuviet",

@@ -213,8 +213,8 @@
     }
   },
   "ONBOARDING": {
-    "TITLE": "Hei 👋, Bine ati venit la %{installationName}!",
-    "DESCRIPTION": "Vă mulțumim pentru semnarea sus. Vrem să profitați la maximum de %{installationName}. Iată câteva lucruri pe care le puteți face în %{installationName} pentru a face experiența încântătoare.",
+    "TITLE": "Hei 👋, Bine ati venit la Ace24!",
+    "DESCRIPTION": "Vă mulțumim pentru semnarea sus. Vrem să profitați la maximum de Ace24. Iată câteva lucruri pe care le puteți face în Ace24 pentru a face experiența încântătoare.",
     "READ_LATEST_UPDATES": "Citiți cele mai recente actualizări ale noastre",
     "ALL_CONVERSATION": {
       "TITLE": "Toate conversațiile într-un singur loc",

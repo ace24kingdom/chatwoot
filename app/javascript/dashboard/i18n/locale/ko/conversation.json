@@ -213,8 +213,8 @@
     }
   },
   "ONBOARDING": {
-    "TITLE": "안녕하세요 👋, %{installationName}에 오신 것을 환영합니다!",
-    "DESCRIPTION": "가입해주셔서 감사합니다. 저희 %{installationName}의 모든 기능을 최대로 누리기 위해 아래 몇 가지를 해주시겠어요?",
+    "TITLE": "안녕하세요 👋, Ace24에 오신 것을 환영합니다!",
+    "DESCRIPTION": "가입해주셔서 감사합니다. 저희 Ace24의 모든 기능을 최대로 누리기 위해 아래 몇 가지를 해주시겠어요?",
     "READ_LATEST_UPDATES": "최근 업데이트 내용 보기",
     "ALL_CONVERSATION": {
       "TITLE": "모든 대화를 한 곳에서",

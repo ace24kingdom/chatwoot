@@ -49,7 +49,7 @@
               "
               :button-text="$t('LOGIN.SUBMIT')"
               :loading="loginApi.showLoading"
-              button-class="large expanded"
+              button-class="large expanded dark-btn"
             />
           </form>
         </div>

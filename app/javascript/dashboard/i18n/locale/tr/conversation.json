@@ -213,8 +213,8 @@
     }
   },
   "ONBOARDING": {
-    "TITLE": "Merhaba 👋, %{installationName}'a hoş geldiniz!",
-    "DESCRIPTION": "Üye olduğunuz için teşekkürler. %{installationName}'dan en iyi şekilde yararlanmanızı istiyoruz. Deneyimi keyifli hale getirmek için %{installationName} içinde yapabileceğiniz birkaç şey var.",
+    "TITLE": "Merhaba 👋, Ace24'a hoş geldiniz!",
+    "DESCRIPTION": "Üye olduğunuz için teşekkürler. Ace24'dan en iyi şekilde yararlanmanızı istiyoruz. Deneyimi keyifli hale getirmek için Ace24 içinde yapabileceğiniz birkaç şey var.",
     "READ_LATEST_UPDATES": "Son güncellemeleri okuyun",
     "ALL_CONVERSATION": {
       "TITLE": "All your conversations in one place",

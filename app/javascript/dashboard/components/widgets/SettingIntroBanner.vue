@@ -27,7 +27,7 @@ export default {
 <style lang="scss" scoped>
 .page-top-banner {
   border-bottom: 1px solid var(--color-border-light);
-  background: var(--s-25);
+  background: var(--white-transparent);
   padding: var(--space-normal) var(--space-large) 0;
 }
 </style>

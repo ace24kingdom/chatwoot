@@ -213,8 +213,8 @@
     }
   },
   "ONBOARDING": {
-    "TITLE": "Xin chào 👋, Chào mừng đến với %{installationName}!",
-    "DESCRIPTION": "Cảm ơn bạn đã đăng ký. Chúng tôi muốn bạn khai thác tối đa %{installationName}. Dưới đây là một số điều bạn có thể làm trong %{installationName} để mang lại trải nghiệm thú vị.",
+    "TITLE": "Xin chào 👋, Chào mừng đến với Ace24!",
+    "DESCRIPTION": "Cảm ơn bạn đã đăng ký. Chúng tôi muốn bạn khai thác tối đa Ace24. Dưới đây là một số điều bạn có thể làm trong Ace24 để mang lại trải nghiệm thú vị.",
     "READ_LATEST_UPDATES": "Đọc cập nhật mới nhất của chúng tôi",
     "ALL_CONVERSATION": {
       "TITLE": "Tất cả hội thoại của bạn ở cùng một chỗ",

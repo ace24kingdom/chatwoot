@@ -213,8 +213,8 @@
     }
   },
   "ONBOARDING": {
-    "TITLE": "היי 👋, ברוך הבא ל%{installationName}!",
-    "DESCRIPTION": "תודה על ההרשמה. אנחנו רוצים לתת לך את הכי הרבה מ %{installationName}. הינה כמה דברים שאתה יכול לעשות עם %{installationName} לחוויה טובה.",
+    "TITLE": "היי 👋, ברוך הבא לAce24!",
+    "DESCRIPTION": "תודה על ההרשמה. אנחנו רוצים לתת לך את הכי הרבה מ Ace24. הינה כמה דברים שאתה יכול לעשות עם Ace24 לחוויה טובה.",
     "READ_LATEST_UPDATES": "תקרא את העדכונים אחרונים",
     "ALL_CONVERSATION": {
       "TITLE": "כל השיחות שלך במקום אחד",

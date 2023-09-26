@@ -213,8 +213,8 @@
     }
   },
   "ONBOARDING": {
-    "TITLE": "Cześć 👋, Witamy w %{installationName}!",
-    "DESCRIPTION": "Dziękujemy za rejestracje. Chcemy, abyś skorzystał jak najbardziej z %{installationName}. Oto kilka rzeczy, których możesz spróbować w %{installationName} aby Twoje doświadczenie było możliwie jak najlepsze.",
+    "TITLE": "Cześć 👋, Witamy w Ace24!",
+    "DESCRIPTION": "Dziękujemy za rejestracje. Chcemy, abyś skorzystał jak najbardziej z Ace24. Oto kilka rzeczy, których możesz spróbować w Ace24 aby Twoje doświadczenie było możliwie jak najlepsze.",
     "READ_LATEST_UPDATES": "Zobacz najnowsze aktualizacje",
     "ALL_CONVERSATION": {
       "TITLE": "Wszystkie Twoje rozmowy w jednym miejscu",
